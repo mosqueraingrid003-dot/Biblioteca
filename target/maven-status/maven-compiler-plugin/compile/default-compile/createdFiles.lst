@@ -1,0 +1,5 @@
+edu\uniac\biblioteca\model\LibroTexto.class
+edu\uniac\biblioteca\model\Novela.class
+edu\uniac\biblioteca\model\LibroTextoUNIAC.class
+edu\uniac\biblioteca\App.class
+edu\uniac\biblioteca\model\Libro.class
